@@ -1,0 +1,48 @@
+[
+  {
+    "question" : "What is the name to the additional network interfaces that can be created and attached to any EC2 instance in your VPC.",
+    "answers" : [
+      {"id" : 0, "text" : "Elastic IP"},
+      {"id" : 1, "text" : "Elastic Network Interface"},
+      {"id" : 2, "text" : "AWS Elastic Interface"}, 
+      {"id" : 3, "text" : "AWS Network ACL"}
+    ],
+    "correct": 1
+  },
+  {
+    "question" : "Name the AWS DB Service which is Server-less and NoSQL DB which delivers consistent single-digit millisecond latency at any scale?",
+    "answers"  : [
+      {"id"  : 0, "text" : "Amazon Redshift"},
+      {"id"  : 1, "text" : "Amazon Neptune"},
+      {"id"  : 2, "text" : "Amazon Aurora"},
+      {"id"  : 3, "text" : "Amazon DynamoDB"}
+    ],
+    "correct"  : 3
+  },
+  {
+    "question" : "Which of the following service provides the edge - storage or content delivery system that caches data at different locations?",
+    "answers"  : [
+      {"id"  : 0, "text" : "Amazon RDS"},
+      {"id"  : 1, "text" : "Simple DB"},
+      {"id"  : 2, "text" : "Amazon Cloud Front"},
+      {"id"  : 3, "text" : "Amazon associates web services"}
+    ],
+    "correct"  : 2
+  },
+  {
+    "question" : "VPC does not enable hybrid cloud (site-to-site VPN)?",
+    "answers"  : [
+      {"id"  : 0, "text" : "True"},
+      {"id"  : 1, "text" : "False"}
+    ],
+    "correct"  : 1
+  },
+  {
+    "question" : "VPC is Private, Isolated, Virtual Network?",
+    "answers"  : [
+      {"id"  : 0, "text" : "True"},
+      {"id"  : 1, "text" : "False"}
+    ],
+    "correct"  : 0
+  }
+]
